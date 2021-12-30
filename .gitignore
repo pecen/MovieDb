@@ -16,6 +16,11 @@
 # Mono auto generated files
 mono_crash.*
 
+# Folder structure
+[Bb]uild
+[Ll]ib
+[Ss]etup
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
